@@ -13,6 +13,7 @@ globalcore 1060
 globalmem 1250
 globalfan 90
 globalpowertune 20
+custompanel ncminemonkey
 
 loc 1be45d US1A 
 loc 1ad7c5 US1B 
