@@ -1,0 +1,60 @@
+#globalminer zcash-miner
+globalminer ethminer
+maxgputemp 87
+stratumproxy enabled
+proxywallet 0xd787e06aDF885141EDDd110bf54a6776a94a8c10
+proxypool1 us2.ethermine.org:4444
+proxypool2us1.ethermine.org:4444
+#proxywallet t1ebPyrDn5qgTTtJ8yebW1YHbm8vakgWjgr
+#proxypool1 zec-us-west1.nanopool.org:6666
+#proxypool2 eu1-zcash.flypool.org:3333
+#globalcore 1075
+globalcore 1060
+globalmem 1250
+globalfan 90
+globalpowertune 20
+
+loc 1be45d US1A 
+loc 1ad7c5 US1B 
+loc 1be47e US1C 
+loc 1a620f US2A 
+loc 1a31b8 US2B 
+loc 1a31be US2C 
+loc 1b19b9 US2D 
+loc 1ad967 US3A 
+loc 1be493 US3B 
+loc 1b1932 US3C 
+loc 1987f9 US3D 
+loc 1be45a US4A 
+loc 1ad926 US4B 
+loc 1be488 US4C
+loc 1be424 US4D 
+loc 1be4a1 US4D 
+loc 1be460 US5A 
+loc 1be47c US5C 
+loc 84a1ea US5D 
+loc e5a729 US6A 
+loc 84a1c3 US6B 
+loc ce5c0b US6C 
+loc 1be33e US6D 
+loc 84a4a6 US7A 
+loc 80fedb US7B 
+loc 84a553 US7D 
+loc ce5bce US8A 
+loc 1be4f8 US8B 
+loc 84a538 US8C 
+loc e5bae7 US9A 
+loc 84a260 US9B 
+loc 84a1eb US9C 
+loc 849fce US9D 
+loc 84a1e2 US10A 
+loc 84a10d US10C 
+loc 849d4b US10D 
+loc 84a4ce US11A 
+loc 94acac US12A 
+loc 96f297 US12B 
+loc 827400 US12C 
+loc 84a378 US12D 
+loc 1987f3 USXXX 
+loc 1ad7aa USXXX
+loc e5b95d USXXX
