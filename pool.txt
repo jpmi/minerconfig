@@ -15,7 +15,6 @@ globalfan 90
 globalpowertune 20
 custompanel ncminemonkey
 
-loc 1be45d US1A 
 loc 1ad7c5 US1B 
 loc 1be47e US1C 
 loc 1a620f US2A 
@@ -68,3 +67,4 @@ loc 882dd0 US11A
 loc 1987f9 US3D
 loc 2247b0 US5A
 loc ce5bea US8C
+loc 1be45a US1A
