@@ -1,6 +1,6 @@
 #globalminer zcash-miner
 globalminer ethminer
-maxgputemp 7
+maxgputemp 97
 stratumproxy enabled
 proxywallet 0x738601e43fa32334e32b9aab4eed8f8659b82d02
 proxypool1 us2.ethermine.org:4444
