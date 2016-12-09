@@ -9,8 +9,8 @@ proxypool2us1.ethermine.org:4444
 #proxypool1 zec-us-west1.nanopool.org:6666
 #proxypool2 eu1-zcash.flypool.org:3333
 #globalcore 1075
-globalcore 1060
-globalmem 1250
+globalcore 1070
+globalmem 1070
 globalfan 90
 globalpowertune 20
 custompanel ncminemonkey
