@@ -1,6 +1,6 @@
 #globalminer zcash-miner
-#globalminer ethminer
-globalminer sgminer-gm
+globalminer ethminer
+#globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
 proxywallet 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B
