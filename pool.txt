@@ -13,6 +13,7 @@ proxypool2 us1.ethermine.org:4444
 globalcore 1070
 globalfan 90
 globalpowertune 20
+autoreboot true
 custompanel ncminemonkey
 
 loc 1ad7c5 US1B 
